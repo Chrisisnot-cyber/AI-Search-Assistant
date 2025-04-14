@@ -1,0 +1,6 @@
+google-generativeai
+duckduckgo-search
+gradio
+nltk
+bs4
+requests
